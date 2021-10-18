@@ -1,1 +1,8 @@
 This is simple file
+git init
+git add
+git commit
+git clone
+git remote add
+git push
+git chekout
